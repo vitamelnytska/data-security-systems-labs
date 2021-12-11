@@ -1,2 +1,5 @@
-# data-security-systems-labs
-application and data security systems
+# Lab 3
+
+Install [nodejs](https://nodejs.org/uk/download/)
+
+Start program `npm start`
